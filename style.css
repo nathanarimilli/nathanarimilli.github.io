@@ -1,9 +1,9 @@
-span {
+span.heading {
     color: red;
 }
 
-div {
+#logo {
     background-color: rgb(98, 165, 145);
-    color: salmon;
+    color: rgb(27, 26, 25);
     font-weight: 100;
 }
