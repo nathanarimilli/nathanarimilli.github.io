@@ -5,4 +5,5 @@ span {
 div {
     background-color: rgb(55, 161, 130);
     color: salmon;
+    font-weight: 100;
 }
