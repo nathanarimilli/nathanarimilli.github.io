@@ -29,9 +29,9 @@ a:hover {
 #okc  {
     color: blue;
 }
-#thunder   {
+div.thunder   {
     color: orangered;
 }
-#pizza  {
+div.pizza  {
     color: purple;
 }
