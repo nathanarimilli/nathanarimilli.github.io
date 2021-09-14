@@ -15,3 +15,7 @@ div.teams {
 a{
     color: red;
 }
+
+a:hover{
+    background-color: yellowgreen;
+}
