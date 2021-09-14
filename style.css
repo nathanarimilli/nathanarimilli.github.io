@@ -7,3 +7,7 @@ span.heading {
     color: rgb(27, 26, 25);
     font-weight: 100;
 }
+
+div.teams {
+    color: slategrey;
+}
