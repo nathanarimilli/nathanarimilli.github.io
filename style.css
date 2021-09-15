@@ -38,3 +38,13 @@ div.pizza  {
 span.turtle {
     background-color: rgb(91, 216, 238);
 }
+span.hat    {
+    background-color: rgb(236, 105, 105);
+}
+
+#cat    {
+    color: rgb(91, 32, 158);
+}
+div.rain {
+    color: rgb(162, 88, 236);
+}
